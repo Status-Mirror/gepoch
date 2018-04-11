@@ -1,0 +1,12 @@
+7-3-18
+Temporal profile of relativistically underdense plasmas
+Page 151
+
+Inspect intensity of RESE emission as a function of time in the backwards direction:
+-For all negative x components
+-For 2*pi/10 angular range (centred along laser beam axis (towards source)) 
+-For 2*pi/100 angular range (same direction as above)
+
+The issue with these plots is that MATLAB was unable to process the large data sets I was handing it for the higher intensities - so the code printed a tiny fraction of the window and stopped each time.
+
+Nothing particularly interesting here.

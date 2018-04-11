@@ -1,0 +1,1329 @@
+[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+There are 10 files here!
+[?1l>ies "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.51 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.30 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.64 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.72 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.79 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 6.56 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 7.32 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.945, final: 0.999, improvement: 0.058, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ *** WARNING ***
+ Output string "EPOCH input deck: /home/sjm630/epoch-4.9.2/epoch1d/USE_DATA_DIRECTORY/input.deck" has been truncated
+ Final runtime of core = 7.39 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 2 minutes, 32.71 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 2 minutes, 32.76 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 22 minutes, 24.89 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 21 minutes, 52.79 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 18 minutes, 46.62 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 19 minutes, 12.01 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 18 minutes, 25.60 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 27 minutes, 39.24 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 23 minutes, 42.30 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 20 minutes, 32.46 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 20 minutes, 42.11 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 17 minutes, 52.63 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 262144 particles of species "Electron"
+ Loaded 262144 particles of species "Ion"
+Initial load imbalance: 0.907, final: 1.001, improvement: 0.103, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 7 minutes, 32.24 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 5 minutes, 51.96 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 6 minutes, 18.85 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 4 minutes, 58.51 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 4 minutes, 31.33 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ SDF npoint_per_iteration reduced to              16777216
+ Final runtime of core = 4 minutes, 23.14 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ Final runtime of core = 4 minutes, 5.30 seconds
+[1m[34m
+
+
+
+        d########P  d########b        .######b          d#######  d##P      d##P
+       d########P  d###########    d###########     .##########  d##P      d##P 
+[36m      ----        ----     ----  -----     ----   -----         ----      --[34m P  
+     d########P  d####,,,####P ####.      .#### d###P          d############P   
+    d########P  d#########P   ####       .###P ####.          d############P    
+   d##P        d##P           ####     d####   ####.         d##P      d##P     
+  d########P  d##P            ###########P     ##########P  d##P      d##P      
+ d########P  d##P              d######P          #######P  d##P      d##P       
+
+[32m Welcome to EPOCH1D version 4.9.2   (commit v4.9.2-0-ged589c1e-clean)
+
+[39m[0m The code was compiled with the following compile time options
+ *************************************************************
+ Particle ID tracking (8-bytes) -DPARTICLE_ID
+ QED Effects -DPHOTONS
+ *************************************************************
+ Code is running on 4 processing elements
+
+ Specify output directory
+ Name of species 1 is Electron
+ Name of species 2 is Ion
+ Name of species 3 is Photon
+ Name of species 4 is Positron
+ Initial conditions complete and valid. Attempting to load particles
+
+ Loaded 65536 particles of species "Electron"
+ Loaded 65536 particles of species "Ion"
+Initial load imbalance: 0.909, final: 0.999, improvement: 0.099, next:        1
+ Equilibrium set up OK, running code
+ *** WARNING ***
+ Argument to "find_value_from_table_1d" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ Argument to "find_value_from_table_alt" outside the range of the table.
+ Using truncated value. No more warnings will be issued.
+ *** WARNING ***
+ SDF npoint_per_iteration reduced to              16777216
+ *** WARNING ***
+ SDF npoint_per_iteration reduced to               4194304
